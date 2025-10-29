@@ -40,11 +40,3 @@ miomnibqaws : Google Cloud &amp; AWS Integration # BigQuery Omni # S3 # External
 
 ![miomnibqaws014.png](./media/miomnibqaws014.png)
 
-![miomnibqaws015.png](./media/miomnibqaws015.png)
-
-![miomnibqaws016.png](./media/miomnibqaws016.png)
-
-![miomnibqaws017.png](./media/miomnibqaws017.png)
-
-![miomnibqaws018.png](./media/miomnibqaws018.png)
-
